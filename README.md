@@ -1,5 +1,7 @@
 # simplemoon
 
+<img src="https://github.com/yuki0n0/zsh-theme-simplemoon/raw/master/image.png" width="500px">
+
 ## Installation via zplug
 
 ```sh
